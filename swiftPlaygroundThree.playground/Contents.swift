@@ -40,4 +40,19 @@ print(fruitNames [1])
 
 var carNames: [String]
 
+carNames = ["bmw", "audi", "Acura", "benz", "ferrari", "Tesla", "lexus", "Lincoln"]
 
+for name in carNames
+{
+    print("34k baby" + name)
+}
+ //problemset two
+
+var priceNames: [Int]
+
+priceNames = [10,20,30,40,50,60,70,80]
+
+for Price in priceNames
+{
+    print(Price + 100)
+}
